@@ -1,0 +1,31 @@
+
+  header{
+    background-color: lightblue;
+  }
+  h1 {
+    font-size: 40px;
+    text-align: center;
+    color: darkorange;
+  }
+  h2 {
+    font-size: 20px;
+    text-align: center;
+    color:rgb(0, 0, 0)
+  }
+  h3 {
+    font-size: 23px;
+    background-color: rgb(251, 192, 92);
+    
+  }
+  h4 {
+    font-size: 20px;
+  }
+  p, li {
+    font-size: 18px;
+  }
+  body {
+    margin: 0 auto;
+    background-color: #f7f1e9;
+    padding: 0px 0px 0px;
+    border: 3px solid rgb(199, 116, 37);
+  }
